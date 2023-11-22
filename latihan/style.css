@@ -1,0 +1,13 @@
+.tombol {
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  padding: 20px;
+  margin: 20px;
+}
